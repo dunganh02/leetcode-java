@@ -1,4 +1,4 @@
-package com.arr;
+package com.datastructures.arr;
 
 public class MainArray {
     public static void main(String[] args) {
